@@ -1,7 +1,7 @@
 # Hi, Welcome to my GitHub Page 
 
 
-**Meeting me for the first time?** _I'm a data analyst who loves digging into data to uncover insights that help businesses make informed decisions. I'm dedicated to refining raw data, finding clues, and extracting insights to make sound conclusions and drive decision-making processes._
+**Meeting me for the first time?** _I am a data analyst who loves digging into data to uncover insights that help businesses make informed decisions. I'm dedicated to refining raw data, finding clues, and extracting insights to make sound conclusions and drive decision-making processes._
 
 # 💫There is more:
 
