@@ -3,6 +3,8 @@
 
 **Meeting me for the first time?** _I am a data analyst who loves digging into data to uncover insights that help businesses make informed decisions. I'm dedicated to refining raw data, finding clues, and extracting insights to make sound conclusions and drive decision-making processes._
 
+__View my [portfolio](gracious-ogbeme.github.io/portfolio-website/)__
+
 # 💫There is more:
 
 - 🔸️I am proficient in data analytics tools such as Python, SQL, Microsoft Excel, Google Sheets, Power BI, and Tableau.
